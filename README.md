@@ -20,7 +20,7 @@ Preview : https://www.figma.com/proto/t1K5aLZCi8yPyBGqHYoD1C/HackTU-App-UI?node-
 
 
 Here's the video of the app functionality:
-https://user-images.githubusercontent.com/91790502/155870167-aea53173-247e-4cc3-bbdf-7984fcdac14f.mov
+https://vimeo.com/manage/videos/682411734
 
 
 
