@@ -16,6 +16,7 @@ The app is built using Flutter and the fruit prices will be updated weekly accor
 
 Here's the UI of the Application:
 ![](Images/HackTU%20App%20UI.png)
+Preview : https://www.figma.com/proto/t1K5aLZCi8yPyBGqHYoD1C/HackTU-App-UI?node-id=5%3A9&scaling=scale-down&page-id=0%3A1&starting-point-node-id=5%3A9
 
 
 Here's the video of the app functionality:
