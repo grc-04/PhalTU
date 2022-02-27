@@ -4,7 +4,7 @@ Hello, There
 We all are aware how challenging hostel life can be and biggest of those challenges is getting proper nutrition in the diet. A big part of that nutrition comes from Fruits. With the fast-paced college life and jam-packed schedules consisting of lectures, labs and societies. It becomes increasingly difficult to find the time to buy fruits .Even for the ones who do, it’s not easy to eat them fresh at the right time .
 Secondly, 
 Another issue that new hostellers face is management of expenses. More often than not they exceed their monthly budget and are not able to keep track. Most of them are willing to do side jobs but it’s impossible to do anything within campus for the same . 
-![](Images/fielname%20PhalTU_Logo.png)
+![](Images/fielnamePhalTU_Logo.png)
  
 To Solve all these problems at one-go, We’d like to introduce PhalTu.
 PhalTU is a mobile app that lets students order fruits in just a few clicks and delivers it to their hostels according to their slot preference- morning or evening. PhalTU does this by partnering with outside vendors who will provide the stock at the required time . Then the stock will be divided according to hostels and student partners who sign up for delivery and will take them to the mentioned hostel. 
