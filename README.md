@@ -13,4 +13,8 @@ Further, cashifiable points will be given on every order to the customers to ens
 The app is built using Flutter and the fruit prices will be updated weekly according to market rates.
 
 Here's the UI of the Application:
-![](Images/HackTU_App_UI.png)
+![](Images/HackTU%20App%20UI.png)
+
+We have used certain components(Portions of Checkout and Cart Page) from the repository https://github.com/sky-flutter/Flutter-Shopping-Cart
+
+
