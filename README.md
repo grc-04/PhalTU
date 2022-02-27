@@ -1,4 +1,6 @@
 # PhalTU
+Project PhalTU by team Gavian
+
 Hello, There 
 
 We all are aware how challenging hostel life can be and biggest of those challenges is getting proper nutrition in the diet. A big part of that nutrition comes from Fruits. With the fast-paced college life and jam-packed schedules consisting of lectures, labs and societies. It becomes increasingly difficult to find the time to buy fruits .Even for the ones who do, it’s not easy to eat them fresh at the right time .
@@ -15,6 +17,11 @@ The app is built using Flutter and the fruit prices will be updated weekly accor
 Here's the UI of the Application:
 ![](Images/HackTU%20App%20UI.png)
 
-We have used certain components(Portions of Checkout and Cart Page) from the repository https://github.com/sky-flutter/Flutter-Shopping-Cart
 
+Here's the video of the app functionality:
+https://user-images.githubusercontent.com/91790502/155870167-aea53173-247e-4cc3-bbdf-7984fcdac14f.mov
+
+
+
+We have used certain components(Portions of Checkout and Cart Page) from the repository https://github.com/sky-flutter/Flutter-Shopping-Cart
 
