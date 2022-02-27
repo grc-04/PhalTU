@@ -11,3 +11,6 @@ PhalTU is a mobile app that lets students order fruits in just a few clicks and 
 The app will charge a small fee per order for this service, a part of which will be given to the deliverers. 
 Further, cashifiable points will be given on every order to the customers to ensure their retention. 
 The app is built using Flutter and the fruit prices will be updated weekly according to market rates.
+
+Here's the UI of the Application:
+![](Images/HackTU_App_UI.png)
